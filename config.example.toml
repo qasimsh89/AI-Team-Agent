@@ -1,0 +1,8 @@
+# copy to config.toml and fill in
+[openai]
+api_key = "sk-your-key-here"
+model = "gpt-4o"
+
+[providers]
+use_duckduckgo = true
+use_yfinance = true
